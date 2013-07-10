@@ -1,0 +1,33 @@
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\bin\Release\chess.exe
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\bin\Release\chess.pdb
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\MainWindow.baml
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\MainWindow.g.cs
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\App.g.cs
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\chess_MarkupCompile.cache
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\chess.g.resources
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\chess.Properties.Resources.resources
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\chess.exe
+C:\Users\cs12002\AppData\Local\Temporary Projects\chess\obj\x86\Release\chess.pdb
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\chess.exe
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\chess.pdb
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\bin\Release\chess.exe
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\bin\Release\chess.pdb
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\MainWindow.baml
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\MainWindow.g.cs
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\App.g.cs
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\chess_MarkupCompile.cache
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\chess.g.resources
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\chess.Properties.Resources.resources
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\bin\Release\System.Windows.Browser.dll
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\bin\Release\System.Windows.dll
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\bin\Release\System.ServiceModel.Web.dll
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\bin\Release\System.Runtime.Serialization.dll
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\bin\Release\System.Net.dll
+C:\Users\cs12002\documents\visual studio 2010\Projects\chess\chess\obj\x86\Release\chess_Content.g.cs
+C:\Users\cs12002\Documents\Visual Studio 2010\Projects\chess\chess\bin\Release\WebSocket4Net.dll

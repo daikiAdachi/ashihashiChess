@@ -1,0 +1,37 @@
+﻿<html>
+  <head>
+    <title>myChessSample16</title>
+    <script src = "sample16.js"></script>
+    <script src = "init16.js"></script>
+  </head>
+  <body onload="init();setup()">
+    <br><br><br><br>
+    <div align = "center">
+      <canvas id = "chessBoard" width = "500" height = "500">
+      </canvas>
+    </div>
+    <form name = "fm">
+<!--      Index:
+      <input size = "20" type = "text" name = "A">
+      <br> -->
+      X:
+      <input size = "10" type = "text" name = "B">
+      Y:
+      <input size = "10" type = "text" name = "C">
+    </form>
+    <!--
+    <a href = "javaScript:moveTo()">move to...</a>
+    -->
+    <a href = "javaScript:myTurn()">focus!</a>
+    <br>
+    <form name = "fm2">
+      X:
+      <input size = "10" type = "text" name = "D">
+      Y:
+      <input size = "10" type = "text" name = "E">
+    </form>
+        <a href = "javaScript:destination()">go!</a>
+    <div style="background:black;color:white;padding:3px;" id="messageBar">test</div>
+
+  </body>
+</html>
